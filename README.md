@@ -8,8 +8,8 @@ Finally we have the tool to do it!
 ### How to install:
 
 1. Copy this string: `%appdata%\microsoft\windows\sendto`
-2. Open a new broswer window and paste it in the path field, then press *Enter*
-3. Download the batch file and move it in that folder
+2. Open a new broswer window and paste it in the path field, then press *Enter*. A folder will open up!
+3. Download the **Move to Folder.bat** file in this repository and move it into that folder
 4. Take a cocktail and relax!
 
 ### How to use it:
