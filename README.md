@@ -1,4 +1,4 @@
-# Movetofolder
+# Move To Folder Script (for Windows)
 
 ## Select multiple files and folders and move them in a new directory!
 
