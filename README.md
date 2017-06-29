@@ -1,6 +1,6 @@
 # Move To Folder Script (for Windows)
 
-## Select multiple files and folders and move them in a new directory!
+## Select multiple files and folders and move them quickly into a new directory!
 
 Annoyed that windows doesn't allow you to move one or more file from a directory to a new/different one?
 Finally we have the tool to do it!
